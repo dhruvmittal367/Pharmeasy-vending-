@@ -143,7 +143,7 @@ public class PrescriptionPDFService {
         clinicInfo.setSpacingBefore(0); // No spacing before
         clinicInfo.add("CritiMeds Consult, India\n");
         clinicInfo.add("Phone: (+91) 8209857661 (Hemant Garg)\n");
-        clinicInfo.add("Email: https://critimedsconsult@gmail.com");
+        clinicInfo.add("Email: critimedsconsult@gmail.com");
         clinicCell.addElement(clinicInfo);
 
         headerTable.addCell(clinicCell);
